@@ -63,12 +63,11 @@ Corra entre dunas, montanhas, cactos e areia.
 
 ### 🎮 Luna & Teddy: Corrida das Moedas
 
-![Luna & Teddy - Corrida das Moedas](jogo1.png)
+![Luna & Teddy - Corrida das Moedas](jogo1.PNG)
 
 ### 🕹️ Gameplay
 
-![Gameplay Luna & Teddy](jogo2.png)
-
+![Gameplay Luna & Teddy](jogo2.PNG)
 ---
 
 ## 💜 Como nasceu este projeto
